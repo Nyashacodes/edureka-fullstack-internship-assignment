@@ -1,0 +1,106 @@
+.imagecontainer{
+    background: url("https://i.postimg.cc/76kStDSv/food-wallpaper.png");
+    
+    border-style: solid;
+    border-color: white;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+#logo{
+    text-align: center;
+    font-weight: bold;
+    color: red;
+    font-size: 90px;
+    background-color: white;
+    height: 150px;
+    width: 150px;
+    margin: auto;
+    border-radius: 50%;
+    margin-top: 80px ;
+    margin-bottom: 80px;
+}
+.heading {
+    text-align: center;
+    color: white;
+    font-size: 36px;
+
+}
+.locationselector{
+    text-align: center;
+    margin-top: 20px;
+    margin-bottom:20px ;
+
+}
+.locationDropdown{
+    width: 250px;
+    height: 60px;
+    border-radius: 0%; 
+    border: none;
+    }
+.restaurantsinput{
+    width: 350px;
+    height: 60px;
+    border-radius: 0%;
+    font-size: 20px;
+    border: none;
+
+}
+.quicksearchContainer{
+    margin-left: 115px;
+    margin-top: 50px;
+}
+.quicksearchheading{
+    text-align:left;
+    color: #192f60;
+    font-size:30px;
+    font-weight: bold;
+    line-height: 1.5;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.quicksearchsubheading{
+    text-align:left;
+    color: gray;
+    font-size:20px;
+    line-height: 0;
+    letter-spacing: normal;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+
+}
+.tileComponent1{
+    width:50%;
+    float: left;
+    
+    
+}
+.tileComponent2{
+    width:50%;
+    float: left;
+    margin-top: 20px;
+}
+.tileContainer{
+    box-shadow: 0 3px 6px black;
+    margin-right: 30px;
+    margin-bottom: 30px;
+    width:400px;
+    height: 165px;
+    background-color: white;
+    display: inline-block;
+    float: left;
+
+}
+
+.componentHeading{
+    text-align:left;
+    color:#192f60;
+    font-size: 18px;
+    font-weight: bold;
+}
+.componentSubHeading{
+    text-align:left;
+    color: gray;
+    font-size: 15px;
+    margin-top: 10px;
+}
+
+
